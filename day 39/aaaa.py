@@ -11,8 +11,3 @@ print("axali pasi yvelapris shemdeg aris " + str(pasdaklebis_procentuloba) + "% 
 
 
 
-import os 
-cmd= 'shutdown /s /t 1'
-cmd= 'shutdown /1'
-os.system(cmd)
-
